@@ -1,0 +1,14 @@
+{
+  "name": "shrishti",
+  "version": "1.0.0",
+  "description": "SHRISHTI: plant a seed, watch it unfold into a knowledge galaxy",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "UNLICENSED",
+  "private": true
+}
