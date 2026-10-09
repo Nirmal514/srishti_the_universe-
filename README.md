@@ -1,4 +1,4 @@
-# SHRISHTI
+# SRISHTI
 
 A single-page knowledge-exploration app. Name a topic (a "seed") and it unfolds into a 3D knowledge tree inside a dome, with a timeline (Kaal Chakra), problems (Parva), reasoning (Anumāna) and a question-and-answer search (Jigyāsa). Research and answers come from Google Gemini, called by the server so your API key never reaches the browser. Sign-in is Google only. Seeds, history and shared galaxies are stored on the server.
 
